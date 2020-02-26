@@ -1,2 +1,5 @@
 we are the power by github
 Configuring git on windows, understanding git clone, pull, private and public repositories
+Configuring git on windows, understanding git clone, pull, private and public repositories
+Configuring git on windows, understanding git clone, pull, private and public repositories
+Configuring git on windows, understanding git clone, pull, private and public repositories
